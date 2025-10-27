@@ -5,9 +5,9 @@
 
 
 Latest YouTube Videos
-![Flutter](https://img.shields.io/badge/-<Flutter>-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
-![JavaScript](https://img.shields.io/badge/-<JavaScript>-090909?style=for-the-badge&logo=JavaScript&logoColor=e9d54d)
-![SQL](https://img.shields.io/badge/-<SQL>-090909?style=for-the-badge&logo=mysql&logoColor=00648b)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47c5fb)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=e9d54d)
+![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648b)
 
 Languages and Tools
 
