@@ -13,6 +13,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-090909?style=for-the-badge&logo=mysql&logoColor=00648b)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=00648b)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=00648b)
+![FIGMA](https://img.shields.io/badge/-FIGMA-090909?style=for-the-badge&logo=figma&logoColor=00648b)
 
 
 
