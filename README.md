@@ -3,8 +3,9 @@
 ## I'm a Junior HTML & CSS Developer passionate about clean, responsive, and accessible web design. I enjoy turning design ideas into interactive, user-friendly websites.
 
 
-
-
+### Latest Youtube videos
+ <!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 
 ### Languages and Tools
@@ -22,4 +23,6 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27a0d9)
 ![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=b4068e)
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007bb6)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?HelenLazareva=anuraghazra&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
